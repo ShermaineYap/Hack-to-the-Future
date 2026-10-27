@@ -31,7 +31,7 @@ Upload `docs/before-after.png` as the first image in the gallery (also `docs/bef
 
 ## 4. Demo video
 
-<YouTube / Loom link — unlisted, under 3 minutes>
+https://youtu.be/_-4p7-RTk0I
 
 ## 5. Source code
 

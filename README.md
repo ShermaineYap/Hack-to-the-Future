@@ -2,7 +2,7 @@
 
 **Hack to the Future submission.** App upgraded: **WhatsApp** (group chats). New feature: **Plans**.
 
-**Live demo:** https://shermaineyap.github.io/Hack-to-the-Future/
+**Live demo:** https://shermaineyap.github.io/Hack-to-the-Future/ · **Video:** https://youtu.be/_-4p7-RTk0I · **Devpost:** https://devpost.com/software/plans-for-whatsapp-group-chats-that-plan-themselves
 
 ![WhatsApp today vs with Plans](docs/before-after.png)
 
