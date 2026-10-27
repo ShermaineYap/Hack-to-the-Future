@@ -2,7 +2,7 @@
 
 **Hack to the Future submission.** App upgraded: **WhatsApp** (group chats). New feature: **Plans**.
 
-**Live demo:** https://shermaineyap.github.io/hack-to-the-future/
+**Live demo:** https://shermaineyap.github.io/Hack-to-the-Future/
 
 ![WhatsApp today vs with Plans](docs/before-after.png)
 
@@ -29,7 +29,7 @@ The suggestion that starts it:
 
 ## Try it
 
-Open the [live demo](https://shermaineyap.github.io/hack-to-the-future/) and:
+Open the [live demo](https://shermaineyap.github.io/Hack-to-the-Future/) and:
 
 - Switch between **WhatsApp today** and **With Plans** to compare.
 - Press **Play the conversation**, or use **Next message** (or the → key) to step through.

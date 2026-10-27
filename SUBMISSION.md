@@ -37,7 +37,7 @@ Upload `docs/before-after.png` as the first image in the gallery (also `docs/bef
 
 https://github.com/ShermaineYap/hack-to-the-future
 
-**Live demo:** https://shermaineyap.github.io/hack-to-the-future/
+**Live demo:** https://shermaineyap.github.io/Hack-to-the-Future/
 
 ## 6. How it works (tools, APIs, languages, AI models)
 
