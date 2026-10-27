@@ -35,7 +35,7 @@ Upload `docs/before-after.png` as the first image in the gallery (also `docs/bef
 
 ## 5. Source code
 
-https://github.com/ShermaineYap/hack-to-the-future
+https://github.com/ShermaineYap/Hack-to-the-Future
 
 **Live demo:** https://shermaineyap.github.io/Hack-to-the-Future/
 

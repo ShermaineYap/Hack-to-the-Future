@@ -42,8 +42,8 @@ Open the [live demo](https://shermaineyap.github.io/Hack-to-the-Future/) and:
 No build step and no dependencies.
 
 ```bash
-git clone https://github.com/ShermaineYap/hack-to-the-future.git
-cd hack-to-the-future
+git clone https://github.com/ShermaineYap/Hack-to-the-Future.git
+cd Hack-to-the-Future
 python3 -m http.server 5173     # or: npm start
 # open http://localhost:5173
 ```
