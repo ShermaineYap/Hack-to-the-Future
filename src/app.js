@@ -71,8 +71,9 @@ function clockLabel(mins) {
 }
 
 function scrollChat(el) {
-  if (el) el.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-  else chat.scrollTop = chat.scrollHeight;
+  // Scroll only inside the chat, never the page around it.
+  const top = el ? el.offsetTop - chat.offsetTop - 8 : chat.scrollHeight;
+  chat.scrollTo({ top, behavior: 'smooth' });
 }
 
 function addSystemChip(text) {
@@ -159,7 +160,7 @@ function logDetections({ author, text }, detections) {
   const short = text.length > 46 ? `${text.slice(0, 44)}…` : text;
   li.innerHTML = `<span class="said"><b>${escapeHTML(author)}</b> “${escapeHTML(short)}”</span><span class="tags">${tags}</span>`;
   log.append(li);
-  li.scrollIntoView({ block: 'nearest' });
+  log.scrollTop = log.scrollHeight;
 }
 
 /* ---------- suggestion ---------- */
